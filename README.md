@@ -1,7 +1,7 @@
 # RolloverRanchPrivacyPolicy
 
 # App Privacy - No data collection
-The Husker STEM VR App does not collect any data. For more information, see the developer’s privacy policy below.
+Rollover Ranch does not collect any data. For more information, see the developer’s privacy policy below.
 
 # Our Commitment to You
 The University of Nebraska-Lincoln safeguards the privacy of all visitors to our websites and applications. This notice describes our privacy policy as it relates to the collection, protection, and disclosure of information resulting from the use of university websites and apps; both information that is collected automatically and information you provide voluntarily. In particular, we do not redistribute or sell personal information collected through our websites and apps.
